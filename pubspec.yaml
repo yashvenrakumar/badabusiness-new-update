@@ -1,0 +1,180 @@
+name: badabusiness
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  carousel_pro:
+  # extended_image:  
+  cached_network_image:
+  cloud_firestore:  
+  flutter_youtube:
+  firebase_core: ^1.6.0
+  firebase_core_web:
+  webview_flutter:  
+  flutter_open_whatsapp:
+  url_launcher:
+  esys_flutter_share: ^1.0.2
+  path_provider:
+  firebase_messaging:
+  firebase_in_app_messaging:
+  firebase_admob: 
+  photo_view:
+  shimmer:
+  razorpay_flutter: 
+  fluttertoast:
+ 
+ 
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/bada.png
+    - assets/slider_1.jpg
+    - assets/slider_2.jpg
+    - assets/slider_3.jpg 
+    - assets/facebook.png
+    - assets/insta.png
+    - assets/linked.png
+    - assets/pinte.png
+    - assets/twitter.png
+    - assets/website.png
+    - assets/what.png
+ 
+    - assets/eae.png 
+    - assets/1.png.png
+    - assets/2.png.png
+    - assets/3.png.png
+    - assets/4.png.png
+    - assets/5.png.png
+    - assets/6.png.png
+    - assets/bada2.png.png
+    - assets/vb.png  
+    - assets/vb.jpg
+    - assets/of.png
+    - assets/pro.png
+    - assets/lo.gif 
+    - assets/text.png
+    - assets/m.png
+    
+    - assets/images/i1.png
+    - assets/images/i2.png
+    - assets/images/i3.png
+    
+    - assets/images/i5.png
+    - assets/images/i6.png
+    - assets/images/i7.png
+    - assets/images/i8.png
+    - assets/images/i9.png
+
+    - assets/images/i10.png
+    - assets/images/i11.png
+    - assets/images/i12.png
+  
+    - assets/images/i14.png
+    - assets/images/i15.png
+    - assets/images/i16.png
+    - assets/images/i17.png
+    - assets/images/i18.png
+    - assets/images/i19.png
+
+    - assets/images/i20.png
+    - assets/images/i21.png
+    
+    - assets/images/i23.png
+    - assets/images/i24.png
+    - assets/images/i25.png
+    - assets/images/i26.png
+    - assets/images/i27.png
+    - assets/images/i28.png
+    - assets/images/i29.png
+    - assets/images/execution.png
+    - assets/images/finance.png
+    - assets/images/it.png
+    - assets/images/leadership.png
+    - assets/images/logo.png
+    - assets/images/legal.png
+    - assets/images/retail.png
+    - assets/images/marketing.png
+    - assets/images/product.png
+    - assets/images/sales.png
+    - assets/images/strategy.png
+    - assets/images/hr.png
+    - assets/images/dm.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "590179516628",
+    "firebase_url": "https://badabusiness-6ec0b.firebaseio.com",
+    "project_id": "badabusiness-6ec0b",
+    "storage_bucket": "badabusiness-6ec0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590179516628:android:3cd4f789968fdf5b81fb41",
+        "android_client_info": {
+          "package_name": "com.business.consultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590179516628-6e3bhbqgdorja1v7qqpae3ie0vsk9dbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.consultant",
+            "certificate_hash": "c9e4d357d240b5307b1411120321acd494a13ea6"
+          }
+        },
+        {
+          "client_id": "590179516628-pr5ehsgtti5dhckene1kvagfrtklsf1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFglQqKScd51nSR1TKkn5se28y4GhMd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590179516628-pr5ehsgtti5dhckene1kvagfrtklsf1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590179516628-e1qtr9c53iruajevbrmlm656khqjpph1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yashvendra.kumar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590179516628:android:ac7aaa26fb9de1b081fb41",
+        "android_client_info": {
+          "package_name": "com.yashvendra.kumar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590179516628-ks1pk58v8u26j39bpkc43vdv6mh9413d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yashvendra.kumar",
+            "certificate_hash": "c9e4d357d240b5307b1411120321acd494a13ea6"
+          }
+        },
+        {
+          "client_id": "590179516628-pr5ehsgtti5dhckene1kvagfrtklsf1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFglQqKScd51nSR1TKkn5se28y4GhMd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590179516628-pr5ehsgtti5dhckene1kvagfrtklsf1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590179516628-e1qtr9c53iruajevbrmlm656khqjpph1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yashvendra.kumar"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3032113909807052~3199883994"
+    }
+  ],
+  "configuration_version": "1"
+}
